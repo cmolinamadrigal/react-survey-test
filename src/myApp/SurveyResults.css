@@ -1,0 +1,14 @@
+.main-container table {
+  color: #000;
+  margin: 10px 0 0;
+  width: 100%;
+}
+
+.main-container table th {
+  border-bottom: 2px solid #000;
+  width: 20%;
+}
+
+.main-container table tr {
+  padding: 5px 0;
+}
